@@ -3,7 +3,7 @@ Joystick Coordinate Test
 
 Function:               Displays x- and y-coordinates on the LCD and sends them over the serial comms port.
 Circuit Schematic No.:  8
-Required Libraries:     Joystick
+Required Libraries:     Joystick : https://github.com/ELECXJEL2645/Joystick
                         N5110
 
 Authored by:            Dr Tim Amsdon
