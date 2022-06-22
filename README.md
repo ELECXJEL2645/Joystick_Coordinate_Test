@@ -1,4 +1,4 @@
-Joystick Coordinate Test
+Joystick_Coordinate_Test
 ========================
 
 Function:               Displays x- and y-coordinates on the LCD and sends them over the serial comms port.
